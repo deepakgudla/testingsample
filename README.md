@@ -1,3 +1,3 @@
 #testing
 
-checking.........
+this is my first githb repository
