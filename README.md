@@ -1,3 +1,3 @@
 #testing
 
-this is my first githb repository
+this is my first github repository
